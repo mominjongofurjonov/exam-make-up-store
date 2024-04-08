@@ -1,0 +1,45 @@
+.advert_icon{
+    width: 700px;
+    height: 300px;
+    
+}
+
+
+.advert_main_wrapper{
+    margin-left: 10px;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+  
+    
+}
+
+.advert_text_wrapper{
+    width: 700px;
+    height: 300px;
+    margin-top: 40px;
+    padding: 26px;
+    display: flex;
+    flex-direction: column;
+}
+
+.advert_mini_title{
+    font-size: 27px;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+    text-align: center !important;
+    letter-spacing: 1px;
+}
+
+.mini_text{
+    font-size: 15px;
+    text-align: center;
+}
+
+.line{
+    width: 1400px;
+    height: 5px;
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: black;
+}
